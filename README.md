@@ -1,3 +1,5 @@
+![MNSIT image](https://github.com/bhavinbhatt278/MNSIT---Handwritten-digit-identification/assets/154977010/c3e3e06f-3fee-49ab-8f62-5ad8425837b2)
+
 The MNIST dataset, short for Modified National Institute of Standards and Technology dataset, is a large database of handwritten digits commonly used for training various image processing systems.
 The United States Postal Services has various handwritten digits in their postal addresses which are sometimes very difficult to recognise due to different handwritings. 
 The purpose of the project is to use various machine learning techniques to train our model with the database of differnt digits written in differrent forms and train our machines
